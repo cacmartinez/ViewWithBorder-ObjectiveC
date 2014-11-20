@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'ViewWithBorder_ObjectiveC', :exclusive => true do
+  pod "ViewWithBorder_ObjectiveC", :path => "../"
+end
+
+target 'Tests', :exclusive => true do
+  pod "ViewWithBorder_ObjectiveC", :path => "../"
+
+  pod 'Specta', '~> 0.2.1'
+  pod 'Expecta'
+end

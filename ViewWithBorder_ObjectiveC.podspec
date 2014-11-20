@@ -10,18 +10,18 @@
 Pod::Spec.new do |s|
   s.name             = "ViewWithBorder_ObjectiveC"
   s.version          = "0.1.0"
-  s.summary          = "A short description of ViewWithBorder_ObjectiveC."
+  s.summary          = "An easy customizable view to set borders and radius in interface builder"
   s.description      = <<-DESC
-                       An optional longer description of ViewWithBorder_ObjectiveC
+                       An easy customizable view to set borders and radius in interface builder
 
                        * Markdown format.
                        * Don't worry about the indent, we strip it!
                        DESC
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/ViewWithBorder_ObjectiveC"
+  s.homepage         = "https://github.com/cacmartinez/ViewWithBorder-ObjectiveC"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Carlos Compean" => "ccompean@icalialabs.com" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/ViewWithBorder_ObjectiveC.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/cacmartinez/ViewWithBorder-ObjectiveC.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, '7.0'

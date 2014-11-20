@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/ViewWithBorder_ObjectiveC.svg?style=flat)](http://cocoadocs.org/docsets/ViewWithBorder_ObjectiveC)
 [![Platform](https://img.shields.io/cocoapods/p/ViewWithBorder_ObjectiveC.svg?style=flat)](http://cocoadocs.org/docsets/ViewWithBorder_ObjectiveC)
 
+![ViewWithBorder](https://github.com/cacmartinez/ViewWithBorder-ObjectiveC/blob/master/Screenshots/viewInUse.gif)
+
 ## Usage
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
